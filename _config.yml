@@ -21,7 +21,7 @@ repository               : "https://github.com/guangli-analytics/guangli-analyti
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/GuangLi_phd2.png"
+  avatar           : GuangLi_phd2.png
   name             : "Guang Li"
   pronouns         : "she/her"  
   bio              : "Associate Professor and Distinguished Faculty Fellow of Management Analytics"
